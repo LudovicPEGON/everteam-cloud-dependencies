@@ -9,7 +9,7 @@
   
    <properties>
         <springfox-swagger.version>2.6.1</springfox-swagger.version>
-        <springframework-cloud.version>Camden.RELEASE</springframework-cloud.version>
+        <springframework-cloud.version>Camden.SR6</springframework-cloud.version>
         <google-client.version>1.22.0</google-client.version>
    </properties>
    
