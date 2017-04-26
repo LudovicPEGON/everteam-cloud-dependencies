@@ -18,12 +18,12 @@
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>releases</id>
-      <url>${nexus.url}/repository/maven-releases/</url>
+      <url>${nexus.url}/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>snapshots</id>
-      <url>${nexus.url}/repository/maven-snapshots/</url>
+      <url>${nexus.url}/maven-snapshots/</url>
     </snapshotRepository>
    </distributionManagement>
    
